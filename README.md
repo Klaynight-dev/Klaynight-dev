@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Klaynight-dev/Klaynight-dev/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/Klaynight-dev/Klaynight-dev/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
