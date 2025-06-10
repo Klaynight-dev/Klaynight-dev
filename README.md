@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Klaynight&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Développeur+Web+%26+Mobile;💻+Passionné+de+Technologie;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Développeur+Web+%26+App;💻+Passionné+de+Technologie;" alt="Typing SVG" />
 </div>
 <div align="center">
   <a href="https://www.instagram.com/klaynight/" target="_blank">
