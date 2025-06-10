@@ -1,69 +1,120 @@
-<br clear="both">
-
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/8d/b7/46/8db746ea0f28bdd22eae8b3ee10ac16a.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Klaynight&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Développeur+Web+%26+Mobile;💻+Passionné+de+Technologie;" alt="Typing SVG" />
 </div>
 
-###
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> **À propos de moi**
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const klaynight = {
+    role: "Développeur Full-Stack",
+    location: "France 🇫🇷",
+    code: ["JavaScript", "PHP", "Python", "Java", "C"],
+    technologies: {
+        frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "Bootstrap"],
+        backend: ["Node.js", "PHP", "Python", "Java"],
+        databases: ["MySQL", "PostgreSQL", "SQL"],
+        tools: ["Docker", "Azure", "VS Code", "Git", "Webpack"],
+        desktop: ["JavaFX", "FXML", "Scene Builder"]
+    },
+    currentFocus: "Développement d'applications web modernes",
+    funFact: "Streamer Twitch pendant mon temps libre ! 🎮"
+};
+```
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"> **Tech Stack**
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+</p>
+
+### ⚙️ **Backend Development**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java,c" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🛠️ **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,docker,azure,github,discord,git,webpack" />
+</p>
+
+### 🖥️ **Desktop Development**
+<p>
+  <img src="https://img.shields.io/badge/JavaFX-FF6C37?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/FXML-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scene_Builder-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### 🔧 **Autres**
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,raspberrypi" />
+</p>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"> **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klaynight-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaynight-dev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klaynight-dev&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Klaynight-dev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> **Connectons-nous !**
 
 <div align="center">
   <a href="https://www.instagram.com/klaynight/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&shadow=0px_4px_8px_rgba(0,0,0,0.3)" alt="Instagram" />
   </a>
   <a href="https://twitch.tv/klaynight" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&shadow=0px_4px_8px_rgba(0,0,0,0.3)" alt="Twitch" />
   </a>
   <a href="https://discord.com/users/457275321171968000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&shadow=0px_4px_8px_rgba(0,0,0,0.3)" alt="Discord" />
   </a>
-  <a href="mailto:night.psr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:contact@klaynight.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&shadow=0px_4px_8px_rgba(0,0,0,0.3)" alt="Mail" />
   </a>
 </div>
 
-###
-
-<h1 align="center">• I am just a person •</h1>
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="25" alt="discord logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="25" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="25" alt="lua logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="25" alt="raspberrypi logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klaynight-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Klaynight-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=Klaynight-dev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Klaynight-dev?style=for-the-badge&color=blue&labelColor=black&label=Followers" alt="Followers" />
 </div>
 
-###
-
-<!--<img src="https://raw.githubusercontent.com/Klaynight-dev/Klaynight-dev/output/snake.svg" alt="Snake animation" />
-
-### -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</div>
