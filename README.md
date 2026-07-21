@@ -35,11 +35,7 @@ export const klaynight = {
     location: "France 🇫🇷",
     code: ["JavaScript", "PHP", "Python", "Java", "C"],
     technologies: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS", "Bootstrap"],
-        backend: ["Node.js", "PHP", "Python", "Java"],
-        databases: ["MySQL", "PostgreSQL", "SQL"],
-        tools: ["Docker", "Azure", "VS Code", "Git", "Webpack"],
-        desktop: ["JavaFX", "FXML", "Scene Builder"]
+        err:"404 : technologies not fund --> rendez vous ici https://klaynight.fr"
     },
     currentFocus: "Développement d'applications web modernes",
     funFact: "Streamer Twitch pendant mon temps libre ! 🎮"
